@@ -1,7 +1,22 @@
 {
-    "blogs": [
-        { "title": "Welcome back", "body": "lorem ipsum...", "author": "melodia", "id": 1},
-        { "title": "Walk the dog", "body": "lorem ipsum...", "author": "Lisa", "id": 2},
-        { "title": "My new website", "body": "lorem ipsum...", "author": "melodia", "id": 3}
-    ]
+  "blogs": [
+    {
+      "title": "Welcome back",
+      "body": "lorem ipsum...",
+      "author": "melodia",
+      "id": 1
+    },
+    {
+      "title": "Walk the dog",
+      "body": "lorem ipsum...",
+      "author": "Lisa",
+      "id": 2
+    },
+    {
+      "title": "My new website",
+      "body": "lorem ipsum...",
+      "author": "melodia",
+      "id": 3
+    }
+  ]
 }
